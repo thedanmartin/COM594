@@ -10,6 +10,8 @@ The plan is weekly, split between work for class (IPRO 497-226) and my own work 
 | Introduction to ECC & role of ethics codes | Other archive sites research  |
 | Introduction to project & discussion of Spring 2016 IPRO accomplishments | Draft Rails introduction for next meeting |
 | Student assignment 1: Familiarization w/ ECC, reflection on code of ethics related to their area of study | Draft Git introduction for next meeting |
+| | Attend COM 531 |
+| | Find digital archive examples to suggest for student assignment 2 from http://oedb.org/ilibrarian/250-plus-killer-digital-libraries-and-archives/ |
 
 **Questions for class:**
 
@@ -23,4 +25,25 @@ Student familiarity with Git/Github?
 
 What on the existing site needs to go vs. what can be saved? (Images, colors, typefaces, etc.)
 
-What are strategies/boundaries involving student work vs my own work?
+What are some strategies and boundaries involving student work vs my own work? (Things I do vs. things they do.)
+
+How to best organize Git use for the semester: Single repository for the prototype with Kelly Laas and I as admins? What are some basic resources on setting up this sort of thing?
+
+---
+
+###Week 2
+| **Class**        | **Project** |
+| :------------- |:-------------|
+| Review student assignments: why an ethics codes collection? | Continue ECC site Research |
+| Introduction to Ruby on Rails | Continue other archive sites research |
+| Introduction to Git |  |
+| Rank goals from last semester |  |
+| Break students into teams based on goals, interests, & expertise -- Back End, Front End/Visual, and Organization/Usability(?) | |
+| Assign newly ranked goals to various teams | |
+| Student assignment 2: Explore 4-5 suggested digital archives from http://oedb.org/ilibrarian/250-plus-killer-digital-libraries-and-archives/ and look for ideas we could borrow and examples of things to avoid. Write a review of 1-2 favorite archives. | |
+
+**Questions for class:**
+
+
+**Questions for project:**
+
