@@ -12,10 +12,15 @@ The plan is weekly, split between work for class (IPRO 497-226) and my own work 
 | Student assignment 1: Familiarization w/ ECC, reflection on code of ethics related to their area of study | Draft Git introduction for next meeting |
 
 **Questions for class:**
+
 Student familiarity with Ruby/Rails?
+
 Student familiarity with Git/Github?
 
 **Questions for project:**
+
 "How much can I change?"
+
 What on the existing site needs to go vs. what can be saved? (Images, colors, typefaces, etc.)
+
 What are strategies/boundaries involving student work vs my own work?
