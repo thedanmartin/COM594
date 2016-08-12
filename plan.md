@@ -11,7 +11,7 @@ The plan is weekly, split between work for class (IPRO 497-226) and my own work 
 | Introduction to project & discussion of Spring 2016 IPRO accomplishments | Draft Rails introduction for next meeting |
 | Student assignment 1: Familiarization w/ ECC, reflection on code of ethics related to their area of study | Draft Git introduction for next meeting |
 | | Attend COM 531 |
-| | Find digital archive examples to suggest for student assignment 2 from http://oedb.org/ilibrarian/250-plus-killer-digital-libraries-and-archives/ |
+| | Find digital archive examples to suggest for student assignment 2 from [url=http://oedb.org/ilibrarian/250-plus-killer-digital-libraries-and-archives/] here [/url] |
 
 **Questions for class:**
 
@@ -40,7 +40,7 @@ How to best organize Git use for the semester: Single repository for the prototy
 | Rank goals from last semester |  |
 | Break students into teams based on goals, interests, & expertise -- Back End, Front End/Visual, and Organization/Usability(?) | |
 | Assign newly ranked goals to various teams | |
-| Student assignment 2: Explore 4-5 suggested digital archives from http://oedb.org/ilibrarian/250-plus-killer-digital-libraries-and-archives/ and look for ideas we could borrow and examples of things to avoid. Write a review of 1-2 favorite archives. | |
+| Student assignment 2: Explore 4-5 suggested digital archives from [url=http://oedb.org/ilibrarian/250-plus-killer-digital-libraries-and-archives/] here [/url] and look for ideas we could borrow and examples of things to avoid. Write a review of 1-2 favorite archives. | |
 
 **Questions for class:**
 
