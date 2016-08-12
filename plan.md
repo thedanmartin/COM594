@@ -5,7 +5,7 @@ The plan is weekly, split between work for class (IPRO 497-226) and my own work 
 
 ###Week 1
 | **Class**        | **Project** |
-| ------------- |:-------------:|
+| :------------- |:-------------|
 | test      | test |
 | test      | test |
 | test | test |
