@@ -47,3 +47,211 @@ How to best organize Git use for the semester: Single repository for the prototy
 
 **Questions for project:**
 
+---
+
+###Week 3
+| **Class**        | **Project** |
+| :------------- |:-------------|
+| | |
+| | |
+| | |
+| | |
+| | |
+
+**Questions for class:**
+
+
+**Questions for project:**
+
+---
+
+###Week 4
+| **Class**        | **Project** |
+| :------------- |:-------------|
+| | |
+| | |
+| | |
+| | |
+| | |
+
+**Questions for class:**
+
+
+**Questions for project:**
+
+---
+
+###Week 5
+| **Class**        | **Project** |
+| :------------- |:-------------|
+| | |
+| | |
+| | |
+| | |
+| | |
+
+**Questions for class:**
+
+
+**Questions for project:**
+
+---
+
+###Week 6
+| **Class**        | **Project** |
+| :------------- |:-------------|
+| | |
+| | |
+| | |
+| | |
+| | |
+
+**Questions for class:**
+
+
+**Questions for project:**
+
+---
+
+###Week 7
+| **Class**        | **Project** |
+| :------------- |:-------------|
+| | |
+| | |
+| | |
+| | |
+| | |
+
+**Questions for class:**
+
+
+**Questions for project:**
+
+---
+
+###Week 8
+| **Class**        | **Project** |
+| :------------- |:-------------|
+| | |
+| | |
+| | |
+| | |
+| | |
+
+**Questions for class:**
+
+
+**Questions for project:**
+
+---
+
+###Week 9
+| **Class**        | **Project** |
+| :------------- |:-------------|
+| | |
+| | |
+| | |
+| | |
+| | |
+
+**Questions for class:**
+
+
+**Questions for project:**
+
+---
+
+###Week 10
+| **Class**        | **Project** |
+| :------------- |:-------------|
+| | |
+| | |
+| | |
+| | |
+| | |
+
+**Questions for class:**
+
+
+**Questions for project:**
+
+---
+
+###Week 11
+| **Class**        | **Project** |
+| :------------- |:-------------|
+| | |
+| | |
+| | |
+| | |
+| | |
+
+**Questions for class:**
+
+
+**Questions for project:**
+
+---
+
+###Week 12
+| **Class**        | **Project** |
+| :------------- |:-------------|
+| | |
+| | |
+| | |
+| | |
+| | |
+
+**Questions for class:**
+
+
+**Questions for project:**
+
+---
+
+###Week 13
+| **Class**        | **Project** |
+| :------------- |:-------------|
+| | |
+| | |
+| | |
+| | |
+| | |
+
+**Questions for class:**
+
+
+**Questions for project:**
+
+---
+
+###Week 14
+| **Class**        | **Project** |
+| :------------- |:-------------|
+| | |
+| | |
+| | |
+| | |
+| | |
+
+**Questions for class:**
+
+
+**Questions for project:**
+
+---
+
+###Week 15
+| **Class**        | **Project** |
+| :------------- |:-------------|
+| | |
+| | |
+| | |
+| | |
+| | |
+
+**Questions for class:**
+
+
+**Questions for project:**
+
